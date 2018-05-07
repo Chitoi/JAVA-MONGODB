@@ -44,11 +44,7 @@ public class IFrmCadAluno extends javax.swing.JInternalFrame {
        
     }
     
-    private void comboBox(){
-       
-        DefaultComboBoxModel dcm = (DefaultComboBoxModel)cbxAlunos.getModel();
-        
-    }
+   
     
     /**
      * This method is called from within the constructor to initialize the form.
